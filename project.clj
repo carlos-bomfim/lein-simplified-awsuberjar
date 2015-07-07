@@ -1,4 +1,4 @@
-(defproject lein-awsuberwar "0.1.0"
+(defproject lein-simplified-awsuberwar "0.1.0"
   :description " Simplified version of lein-awsuberwar (https://github.com/wiseman/lein-awsuberwar)."
   :url "https://github.com/carlos-bomfim/lein-simplified-awsuberjar"
   :license {:name "Eclipse Public License"
